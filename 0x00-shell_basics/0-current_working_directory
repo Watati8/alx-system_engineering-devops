@@ -1,2 +1,2 @@
 #!/bin/bash
-#this is tiring 
+$ wc -l file 
